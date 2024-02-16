@@ -1,0 +1,1 @@
+add_library(number "Parser.cpp" "Parser.h"  "BMP.h" "ReadFile.cpp" "ReadFile.h" "SandPile.cpp" "SandPile.h" "CreatFile.cpp"  "Queue.h" "Queue.cpp")
